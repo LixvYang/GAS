@@ -1,6 +1,4 @@
-# GAS
-Genetic Algorithm in Go.
-# 遗传算法
+# GAS# 遗传算法
 
 ## 简介
 
