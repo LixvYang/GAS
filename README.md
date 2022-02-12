@@ -276,8 +276,6 @@ func getBest(population []Person) Person {
 
 我们的所有代码都已经写好了，运行一下看看你用了多长时间？
 
-![](C:\Users\lixin yang\Desktop\na.png)
-
 事实上，如果没有濒临灭绝机制的话，适应度`fitness`理论上是不会减少的，但我们的灭绝机制导致运行时间过长。
 
 代码我放在这儿，有需要的朋友可以自行查看
